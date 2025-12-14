@@ -1,0 +1,7 @@
+{
+  "name": "Stumble",
+  "description": "A playful app that encourages growth through small, fun failures and random challenges based on your surroundings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
